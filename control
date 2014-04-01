@@ -1,0 +1,9 @@
+Package: com.filippobiga.springtomize3
+Name: Springtomize3
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Customize your device like never before.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks
